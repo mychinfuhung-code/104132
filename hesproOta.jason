@@ -1,0 +1,19 @@
+    {
+    
+    "ota": [
+            {
+                "Version": 3,
+                "URL": "http://192.168.43.173:8000/wifi_ota103.bin",
+                "Digest": "745189cbb24b752a0175de1f9d5d61433ba47d89aff5b5a3686f54ca2d5dfb22",
+                "Signature": "pra2wlOiZO/zjzqaP9DZGe9dmm0aC4gx4r0yoyI7DU3sVpkdJ034v5XoiN5jdpeuLRge4RjsB/KSrVho8pwC2w==",
+                "EraseVer": false
+            },
+            {
+                "Version": 6,
+                "URL": "http://192.168.43.173:8000/wifi_ota100.bin",
+                "Digest": "885189cbb24b7b1a0175deef9d5d61f53c247d89a095b5a3686f54ca2d5dfbaa",
+                "Signature": "pra2wlOiZO/zjzqaP9DZGe9dmm0aC4gx4r0yoyI7DU3sVpkdJ034v5XoiN5jdpeuLRge4RjsB/KSrVho8pwC2w==",
+                "EraseVer": false
+            }
+           ]
+    }
